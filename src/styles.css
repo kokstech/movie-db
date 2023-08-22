@@ -1,0 +1,15 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+form div {
+  margin: 4px;
+}
+
+.tip {
+  opacity: 9999;
+  background-color: black;
+  font-weight: bold;
+  color: white;
+}
